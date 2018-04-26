@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 
 body {
-     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
      background-color: #FFFFFF;
      margin: 0 auto;
      padding: 0;
@@ -13,29 +13,21 @@ a:link {
      color: #B49942;
 }
 a:visited {
-     color: #000;
+     color: #CCB97D;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
 
-Submission
- Turned In!
-Apr 20 at 10:35am
-Submission Details
-View the Original Page
-Comments:
-Didn't know if this was due... Not finished, but I will upload again when finished.
-JOSHUA MACFARLANE, Apr 20 at 10:35am
 .homePage {
-	background: #DFC84B;
+	background: #181329;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #5A397F;
+	background: #433452;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -45,7 +37,7 @@ JOSHUA MACFARLANE, Apr 20 at 10:35am
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #323232;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -54,7 +46,7 @@ JOSHUA MACFARLANE, Apr 20 at 10:35am
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #4E4E4E;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -62,7 +54,7 @@ JOSHUA MACFARLANE, Apr 20 at 10:35am
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #433452;
 	margin: 0px;
 	float: left;
 	width: 100%;
