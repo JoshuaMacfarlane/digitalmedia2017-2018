@@ -20,7 +20,7 @@ a:hover, a:active, a:focus {
 }
 
 .homePage {
-	background: #181329;
+	background: #0E0B17;
 }
 .container {
 	width: 960px;
@@ -50,7 +50,6 @@ a:hover, a:active, a:focus {
 	margin: 0px;
 	float: left;
 	width: 100%;
-
 	text-align: center;
 }
 .footer {
